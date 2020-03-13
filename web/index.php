@@ -1,5 +1,7 @@
 <?php
 
+echo "For the Horde!";
+
 require('../vendor/autoload.php');
 
 $app = new Silex\Application();
